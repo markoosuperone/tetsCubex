@@ -1,0 +1,21 @@
+.todo-list-item {
+  cursor: pointer;
+  user-select: none;
+  line-height: 35px;
+  margin-left: 1.25rem;
+}
+.flex {
+  display: flex;
+  margin: 5px;
+}
+button {
+  padding: 0px;
+  margin: 5px;
+  width: 55px;
+}
+.hide {
+  display: none;
+}
+.block__element_1 {
+  flex: 0 0 200px;
+}

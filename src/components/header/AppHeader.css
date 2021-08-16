@@ -1,0 +1,14 @@
+.app-header {
+  width: 430px;
+}
+.app-header h1 {
+  display: inline-block;
+  flex-grow: 1;
+}
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: grey;
+  margin-top: 20px;
+  display: inline-block;
+}

@@ -1,0 +1,20 @@
+.todo-list .list-group-item {
+  padding: 0.25rem 0.75rem;
+  width: 400px;
+  margin: 10px;
+}
+
+.todo-list {
+  margin-top: 20px;
+}
+.float {
+  float: right;
+
+  display: flex;
+  flex-direction: row;
+}
+.float button {
+  margin: 5px;
+  width: 35px;
+}
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
